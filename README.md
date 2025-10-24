@@ -79,17 +79,12 @@ Developed a personal Telegram bot mimicking production logic (without NDA conten
 - Deployed to cloud and connected to a live bot.
 
 🔗 [GitHub Project](https://github.com/Iamfittz/TG_Fitz)  
-🤖 [Telegram Bot](https://t.me/iamfitz_bot)
+🤖 [Telegram Bot](https://t.me/iamfitz_bot) 
 
 ---
 
 ## 🌐 Links & Contacts
 - **GitHub:** [github.com/Iamfittz](https://github.com/Iamfittz)  
 - **LinkedIn:** [linkedin.com/in/artem-vuitsyk](https://www.linkedin.com/in/artem-vuitsyk)  
-- **Telegram:** [@iamfitz](https://t.me/iamfitz)  
 - **Email:** [vuitsyk.artem@gmail.com](mailto:vuitsyk.artem@gmail.com)  
-- **Phone:** +38 (050) 619-53-60  
-
 ---
-
-📄 [Download PDF version of my resume](Artem%20Vuitsyk%202025.pdf)
