@@ -1,9 +1,3 @@
-<p align="center">.NET Engineer · DevOps · Open Source</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/artem-vuitsyk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/iamfitz"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
-</p>
-
 ---
 
 Backend engineer at **RemObjects Software**, building enterprise SDK tooling for the .NET ecosystem. Previously at GlobalLogic working on financial data platforms. I write clean backend code, automate pipelines, and contribute to open source.
