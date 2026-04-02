@@ -8,7 +8,7 @@ Currently doing DevOps work on [uzproof](https://uzproof.com) — a Solana proof
 
 ---
 
-`C#` `·` `.NET Core` `·` `Docker` `·` `GitHub Actions` `·` `Azure` `·` `xUnit` `·` `SQL` `·` `EF Core`
+`C#` `.NET Core` `Docker` `GitHub Actions` `Azure` `xUnit` `SQL` `EF Core`
 
 ---
 
