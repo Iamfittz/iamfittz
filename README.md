@@ -1,95 +1,70 @@
-# 👋 Hi, I'm **Artem Vuitsyk**
-### .NET Software Engineer — Mid Level
+<h1 align="center">Artem Vuitsyk</h1>
+<h3 align="center">.NET Software Engineer · DevOps · Open Source</h3>
 
-📍 **Donetsk National University**  
-_Master’s Degree in International Economics (2008–2014)_
-
----
-
-## 🧠 Summary
-
-I’m a .NET Software Engineer specializing in backend development, data integration, and system automation.  
-Strong background in building scalable, testable, and maintainable solutions using **C#, .NET Core, and modern DevOps practices**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/artem-vuitsyk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Iamfittz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/iamfitz"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:vuitsyk.artem@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 💼 Employment History
-
-### **GlobalLogic** — Software Engineer (2023 – 2025)
-- Expanded responsibilities to include **production support**, **performance optimization**, and **architectural improvements** of core backend modules.  
-- Refactored and optimized .NET components, resulting in faster data processing and lower memory usage.  
-- Implemented background services and job scheduling using .NET Core hosted services.  
-- Troubleshot complex production issues using **log analysis**, **SQL tracing**, and **profiling tools**.  
-- Improved API integrations and error handling.  
-- Contributed to architectural discussions and design improvements.
-
-### **GlobalLogic** — Software Engineer (2022 – 2023)
-- Built backend modules and data integration pipelines for a financial platform processing OTC securities data.  
-- Designed and implemented core validation and transformation logic in **C# / .NET Core**, applying **SOLID** and clean code principles.  
-- Created modular backend components using **Entity Framework Core** and **LINQ**.  
-- Wrote unit tests with **xUnit** and integrated validation into CI/CD pipelines.  
-- Collaborated on code reviews and system architecture improvements.
+Backend engineer with 3+ years in .NET, currently at **RemObjects Software** building enterprise SDK tooling and contributing to open source. I care about clean code, automated pipelines, and systems that don't break at 3am.
 
 ---
 
-## 🏆 Key Achievements
-- Key contributor to the successful implementation of an **FpML module in SCD**, transforming FpML formats into internal trade formats.  
-- Integrated FpML data into the IMS system, ensuring reliability and consistency of trade processing.  
-- Optimized transformation flow, improving system speed and stability.  
-- Applied domain expertise in **OTC derivatives** — swaps, forwards, options, CDS, and equity derivatives.
+## Experience
+
+**RemObjects Software** — Software Engineer · 2025 – present  
+Building enterprise application frameworks and SDK tooling for the .NET ecosystem. Working across C#, VB.NET, Oxygene, Swift, Mercury — ensuring cross-language consistency in build pipelines and developer tooling.
+
+**GlobalLogic** — Software Engineer · 2022 – 2025  
+Backend modules and data integration pipelines for a financial platform processing OTC securities data. Implemented FpML transformation logic, background services, and contributed to architectural improvements across the core system.
 
 ---
 
-## ⚙️ Professional Skills
+## Tech
 
-**Languages & Frameworks:**  
-C#, .NET Core (APIs, background services), Entity Framework Core, LINQ, Node.js  
-
-**Data & Databases:**  
-SQL, MySQL, Oracle DB, ODBC, NuGet, xUnit  
-
-**Cloud & DevOps:**  
-Azure, AWS, Docker, Jenkins, Git  
-
-**Automation & Testing:**  
-SpecFlow, Gherkin, xUnit, CI/CD pipelines  
-
-**Tools & Collaboration:**  
-Jira, Confluence, Insomnia  
+```
+Languages    C#  ·  .NET Core  ·  Node.js  ·  SQL
+DevOps       Docker  ·  GitHub Actions  ·  Jenkins  ·  Azure  ·  AWS
+Testing      xUnit  ·  SpecFlow  ·  Gherkin  ·  CI/CD pipelines
+Data         Entity Framework Core  ·  LINQ  ·  MySQL  ·  Oracle DB
+```
 
 ---
 
-## 💪 Key Strengths
-- Optimizes data transformation and validation processes.  
-- Writes **clean, testable, and scalable** backend code.  
-- Strong incident handling: log analysis, SQL debugging, API troubleshooting.  
-- Experienced in test planning, case creation, and automation.  
-- Implements automated CI/CD workflows for stability.  
-- Combines analytical thinking with strong problem-solving abilities.  
-- Fluent in English (Upper-Intermediate).
+## Open Source
+
+**highlightjs/highlight.js** — contributor  
+Separating Elements Compiler languages (Oxygene, Hydrogene, Gold, Iodine) from their official counterparts. Adding C# 14 `field` keyword support, Oxygene string support.  
+→ [PR #4364](https://github.com/highlightjs/highlight.js/pull/4364)
+
+**Iamfittz/gitleaks-hook** — author  
+Pre-commit hook that blocks commits containing secrets — API keys, tokens, passwords. Auto-installs gitleaks, works on Linux/macOS/Windows.  
+→ [github.com/Iamfittz/gitleaks-hook](https://github.com/Iamfittz/gitleaks-hook)
 
 ---
 
-## 💻 Pet Projects
+## Projects
 
-**Telegram Bot (C# / .NET Core)**  
-Developed a personal Telegram bot mimicking production logic (without NDA content).  
-- Built with EF Core for persistence.  
-- Handles user registration, input validation, and secure coding practices.  
-- Deployed to cloud and connected to a live bot.
+**uzproof** — DevOps infrastructure · 2026  
+CI/CD setup for a Solana proof-of-use platform (hackathon project). Built GitHub Actions workflows: secret scanning, uptime monitoring, SSL checks, Lighthouse performance audits, SDK auto-publish to npm.
 
-🔗 [GitHub Project](https://github.com/Iamfittz/TG_Fitz)  
-🤖 [Telegram Bot](https://t.me/iamfitz_bot)
+**TG Fitz Bot** — Telegram bot · C# / .NET Core  
+Personal bot with EF Core persistence, user registration, input validation. Deployed to cloud.  
+→ [t.me/iamfitz_bot](https://t.me/iamfitz_bot)
 
 ---
 
-## 🌐 Links & Contacts
-- **GitHub:** [github.com/Iamfittz](https://github.com/Iamfittz)  
-- **LinkedIn:** [linkedin.com/in/artem-vuitsyk](https://www.linkedin.com/in/artem-vuitsyk)  
-- **Telegram:** [@iamfitz](https://t.me/iamfitz)  
-- **Email:** [vuitsyk.artem@gmail.com](mailto:vuitsyk.artem@gmail.com)  
-- **Phone:** +38 (050) 619-53-60  
+## Certifications
+
+DevOps and Kubernetes · Practical Intensive
 
 ---
 
-📄 [Download PDF version of my resume](Artem%20Vuitsyk%202025.pdf)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20work-yes-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ukraine-🇺🇦-blue?style=flat-square"/>
+</p>
